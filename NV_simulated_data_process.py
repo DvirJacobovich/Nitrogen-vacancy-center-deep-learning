@@ -1,6 +1,6 @@
 """
 Dvir Jacobovich NV deep leaning simulation 
-John Howell lab 2022
+John Howell lab 2023
 
 This project simulates the reconstruction of 8 NV peak locations with different magnetic field magnitude,
 and can be set to different lineshape samples as well as different CS ratio and different number of 
